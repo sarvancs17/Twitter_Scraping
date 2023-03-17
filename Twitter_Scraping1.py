@@ -1,4 +1,4 @@
-# importing libraries and modules needed for the project
+
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
 import pymongo
